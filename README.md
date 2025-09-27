@@ -58,19 +58,17 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <!-- Top Languages (Auto from GitHub) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahin01631&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="45%" />
+### 📊 GitHub Stats 
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahin01234&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="50%" />
+</p>
 
-  <!-- Custom C++ Only (100%) -->
-  <img src="https://img.shields.io/badge/C++-100%25-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ 100%" width="45%" />
 
   <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mahin01631&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="50%" />
 </p>
 
-<p align="center">
+  <p align="center">
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin01631&theme=tokyonight" alt="GitHub Streak" width="70%" />
 </p>
