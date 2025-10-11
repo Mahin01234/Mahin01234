@@ -22,13 +22,13 @@ I’m a passionate student, problem-solver, and builder—always eager to learn,
 ---
 
 ### 🎓 Education
-- **B.Sc. Computer Science & Engineering** – University of Liberal Arts Bangladesh (ULAB)  
+- **B.Sc. Computer Science & Engineering** – University of Liberal Arts Bangladesh (ULAB)
 - **HSC, Science** – Mohammadpur Kendriya College
 
 ---
 
 ### 🌐 Languages
-- Bangla (Native)  
+- Bangla (Native)
 - English (Professional)
 
 ---
@@ -36,18 +36,18 @@ I’m a passionate student, problem-solver, and builder—always eager to learn,
 ### 🎵 Interests & Skills
 
 #### Business & Strategy
-- Business Development  
-- Networking  
-- Marketing & Strategy  
+- Business Development
+- Networking
+- Marketing & Strategy
 
 #### Creative & Productivity
-- Photography  
-- Microsoft Office Suite  
+- Photography
+- Microsoft Office Suite
 
 #### Technology & Programming
-- C / C++ Programming  
-- Competitive Programming  
-- Cybersecurity basics  
+- C / C++ Programming / Python
+- Competitive Programming
+- Cybersecurity basics
 
 
 ---
@@ -65,12 +65,12 @@ I’m a passionate student, problem-solver, and builder—always eager to learn,
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/mahinurrahmanmahin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mahinurrahmanmahin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/mahinurrahmanmahin" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://fb.com/mahinurrahmanmahin" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
@@ -79,37 +79,42 @@ I’m a passionate student, problem-solver, and builder—always eager to learn,
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/-->
+  <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/-->
+  <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/-->
+  <!--img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="40" height="40"/-->
+  <!-- img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/ -->
 </p>
+
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahin01234&show_icons=true&locale=en&layout=compact" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mahin01631&show_icons=true&theme=tokyonight&count_private=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahin01234&show_icons=true&locale=en&layout=compact" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahin01631&show_icons=true&theme=tokyonight&count_private=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin01631&theme=tokyonight" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin01631&theme=tokyonight" width="70%" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahin01631&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=mahin01631&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10" />
 </p>
 
 ---
 
 ### 💬 Quote
 <p align="center">
-  <blockquote>
-    <h3><i>“Programming is not about typing, it’s about thinking.”</i></h3>
-    <p>– Rich Hickey</p>
-  </blockquote>
+<blockquote>
+<h3><i>“Programming is not about typing, it’s about thinking.”</i></h3>
+<p>– Rich Hickey</p>
+</blockquote>
 </p>
 
 ---
-
