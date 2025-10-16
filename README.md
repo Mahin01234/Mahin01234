@@ -88,6 +88,17 @@ My journey blends science, creativity, and technology, fueled by the belief: **A
 
 ---
 
+
+
+### DevOps & Cloud
+<p align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
+
+---
+
+---
+
+
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahin01234&show_icons=true&locale=en&layout=compact" width="45%" />
@@ -114,5 +125,16 @@ My journey blends science, creativity, and technology, fueled by the belief: **A
     <p>– Rich Hickey</p>
   </blockquote>
 </p>
+
+---
+
+
+<picture>
+  <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-white.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
 
 ---
