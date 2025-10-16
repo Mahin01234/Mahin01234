@@ -135,6 +135,4 @@ My journey blends science, creativity, and technology, fueled by the belief: **A
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
-
 ---
