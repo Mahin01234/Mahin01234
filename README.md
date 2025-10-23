@@ -85,19 +85,27 @@ C · C++ · Python ·
 ---
 
 ### 🛠️ Languages and Tools
+
 <p align="left">
-  <!-- Programming Languages -->
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Anaconda/Anaconda-original.svg"width="80" height="80" title="Anaconda"/>
+  <img src="https://raw.githubusercontent.com/Mahin01234/Mahin01234/main/assets/jupyter.png" width="40" height="40" title="Jupyter"/>
+
 </p>
 
----
 
+
+
+
+
+---
+  
 
 
 ### DevOps & Cloud
@@ -115,9 +123,9 @@ C · C++ · Python ·
   <img src="https://github-readme-stats.vercel.app/api?username=mahin01631&show_icons=true&theme=tokyonight&count_private=true" width="45%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahin01631&show_icons=true&theme=tokyonight" width="70%" />
-</p>
+</p> -->
 
 
 ---
