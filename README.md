@@ -116,10 +116,13 @@ C · C++ · Python ·
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin01631&theme=tokyonight" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahin01631&show_icons=true&theme=tokyonight" width="70%" />
 </p>
 
+
 ---
+
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -139,10 +142,10 @@ C · C++ · Python ·
 ---
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-white.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 ---
