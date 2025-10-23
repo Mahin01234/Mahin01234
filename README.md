@@ -27,6 +27,16 @@ My journey blends science, creativity, and technology, fueled by the belief: **A
 
 ---
 
+
+
+### 🧠 Skills
+#### 💻 Languages
+C · C++ · Python · 
+
+---
+
+
+
 ### 🌐 Languages
 - Bangla (Native)
 - English (Professional)
