@@ -94,14 +94,10 @@ C · C++ · Python ·
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Anaconda/Anaconda-original.svg"width="80" height="80" title="Anaconda"/>
-  <img src="https://raw.githubusercontent.com/Mahin01234/Mahin01234/main/assets/jupyter.png" width="40" height="40" title="Jupyter"/>
+  <img width="80" height="80" alt="Screenshot 2025-10-23 213756" src="https://github.com/user-attachments/assets/1aad7df8-6000-4ea6-89af-8f494ed70cba" />
+  <img width="80" height="80" alt="Screenshot 2025-10-23 213714" src="https://github.com/user-attachments/assets/a95ee0d5-6e82-4c27-be5e-0a7b366ebf4e" />
 
 </p>
-
-
-
-
 
 
 ---
@@ -110,8 +106,6 @@ C · C++ · Python ·
 
 ### DevOps & Cloud
 <p align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
-
----
 
 ---
 
@@ -157,3 +151,7 @@ C · C++ · Python ·
 </picture> -->
 
 ---
+
+
+
+
