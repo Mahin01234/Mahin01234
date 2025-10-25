@@ -96,6 +96,8 @@ C · C++ · Python ·
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/>
   <img width="80" height="80" alt="Screenshot 2025-10-23 213756" src="https://github.com/user-attachments/assets/1aad7df8-6000-4ea6-89af-8f494ed70cba" />
   <img width="80" height="80" alt="Screenshot 2025-10-23 213714" src="https://github.com/user-attachments/assets/a95ee0d5-6e82-4c27-be5e-0a7b366ebf4e" />
+<img width="80" height="80" alt="Screenshot 2025-10-25 151113" src="https://github.com/user-attachments/assets/49c391b7-0a38-4773-9e6a-c060af7ec085" /> 
+
 
 </p>
 
@@ -151,6 +153,8 @@ C · C++ · Python ·
 </picture> -->
 
 ---
+
+
 
 
 
