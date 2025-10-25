@@ -107,8 +107,8 @@ C · C++ · Python ·
 
 
 ### DevOps & Cloud
-<p align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
-<img width="80" height="80" alt="Screenshot 2025-10-25 151113" src="https://github.com/user-attachments/assets/49c391b7-0a38-4773-9e6a-c060af7ec085" /> 
+<img width="60" height="60" alt="Screenshot 2025-10-25 151435" src="https://github.com/user-attachments/assets/83b888e5-5c97-4da7-b078-efd809821132" /> 
+<img width="60" height="60" alt="Screenshot 2025-10-25 151113" src="https://github.com/user-attachments/assets/49c391b7-0a38-4773-9e6a-c060af7ec085" /> 
 ---
 
 
@@ -153,6 +153,7 @@ C · C++ · Python ·
 </picture> -->
 
 ---
+
 
 
 
