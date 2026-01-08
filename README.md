@@ -97,6 +97,11 @@ C · C++ · Python ·
   <img width="80" height="80" alt="Screenshot 2025-10-23 213756" src="https://github.com/user-attachments/assets/1aad7df8-6000-4ea6-89af-8f494ed70cba" />
   <img width="80" height="80" alt="Screenshot 2025-10-23 213714" src="https://github.com/user-attachments/assets/a95ee0d5-6e82-4c27-be5e-0a7b366ebf4e" />
 
+<img width="80" height="80" alt="pandas" src="https://github.com/user-attachments/assets/61ce26dd-acee-4566-94b2-8bb412e2b0eb" /> 
+<img width="80" height="80" alt="Bing Image" src="https://tse4.mm.bing.net/th/id/OIP.rKX9wwyRwxNPD47cFLXMMQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" />
+<img width="80" height="80" alt="Data Visualization Icon" src="https://img.freepik.com/premium-vector/data-visualization-icon-simple-element-illustration-data-visualization-concept-symbol-design-from-analytics-research-collection-can-be-used-web-mobile_159242-12210.jpg" />
+<img width="80" height="80" alt="Bing Image" src="https://th.bing.com/th/id/OIP.ddlXSzb-V2q3fk24x6OAiwHaHa?w=202&h=202&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" />  
+
 
 
 </p>
