@@ -120,13 +120,9 @@ C · C++ · Python ·
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahin01234&show_icons=true&locale=en&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahin01631&show_icons=true&locale=en&layout=compact" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=mahin01631&show_icons=true&theme=tokyonight&count_private=true" width="45%" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahin01631&show_icons=true&theme=tokyonight" width="70%" />
-</p> -->
 
 
 ---
