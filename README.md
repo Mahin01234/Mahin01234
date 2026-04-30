@@ -75,12 +75,16 @@ C · C++ · Python ·
 ### 🌐 Connect with Me
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"/></td>
+      <td><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord"/></td>
+      <td><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio"/></td>
+      <td><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook"/></td>
+      <td><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"/></td>
+      <td><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram"/></td>
+    </tr>
+  </table>
 </div>
 
 ###
@@ -114,10 +118,17 @@ C · C++ · Python ·
 
 
 ### DevOps & Cloud
-<img width="60" height="60" alt="Screenshot 2025-10-25 151435" src="https://github.com/user-attachments/assets/83b888e5-5c97-4da7-b078-efd809821132" /> 
-<img width="60" height="60" alt="Screenshot 2025-10-25 151113" src="https://github.com/user-attachments/assets/49c391b7-0a38-4773-9e6a-c060af7ec085" /> 
----
 
+<div align="left">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/83b888e5-5c97-4da7-b078-efd809821132" width="60" height="60" alt="DevOps Icon 1"/></td>
+      <td><img src="https://github.com/user-attachments/assets/49c391b7-0a38-4773-9e6a-c060af7ec085" width="60" height="60" alt="DevOps Icon 2"/></td>
+    </tr>
+  </table>
+</div>
+
+---
 
 
 ## 📊 GitHub Stats & Trophies
